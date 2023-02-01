@@ -11,7 +11,7 @@ import java.sql.SQLException;
 public class Main {
     public static void main(String[] args) throws SQLException, JRException, DRException {
         generateByExistingReportTemplate();
-        generateUsingDynamicJasperReport();
+//        generateUsingDynamicJasperReport();
     }
 
     public static void generateByExistingReportTemplate() throws SQLException, JRException {
